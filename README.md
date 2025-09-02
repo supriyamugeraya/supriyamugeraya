@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native & Advanced Web Development**.
 
-- 💬 Ask me about **Andriod , Flask, MEARN and AI/ML**.
+- 💬 Ask me about **Andriod , Flask, MERN and AI/ML**.
 
 - 📫 How to reach me **mugerayasupriya@gmail.com**.
  
